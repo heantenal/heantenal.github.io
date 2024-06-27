@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://heantenal.github.io/sitemap
+Sitemap: https://heantenal.github.io/app/sitemap
+Sitemap: https://heantenal.github.io/assets/sitemap
+Sitemap: https://heantenal.github.io/css/sitemap
+Sitemap: https://heantenal.github.io/includes/sitemap
+Sitemap: https://heantenal.github.io/item/sitemap
+Sitemap: https://heantenal.github.io/src/sitemap
